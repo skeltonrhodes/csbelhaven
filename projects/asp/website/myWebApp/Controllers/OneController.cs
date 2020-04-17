@@ -3,7 +3,7 @@ using System.Text.Encodings.Web;
 
 namespace myWebApp.Controllers
 {
-    public class TestController : Controller
+    public class OneController : Controller
     {
         // 
         // GET: /Test/

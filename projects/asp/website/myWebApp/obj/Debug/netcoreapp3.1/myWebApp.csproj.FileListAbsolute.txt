@@ -34,3 +34,5 @@
 /Users/rhodesskelton/Documents/csbelhaven/projects/asp/website/myWebApp/obj/Debug/netcoreapp3.1/myWebApp.pdb
 /Users/rhodesskelton/Documents/csbelhaven/projects/asp/website/myWebApp/obj/Debug/netcoreapp3.1/myWebApp.csproj.CopyComplete
 /Users/rhodesskelton/Documents/csbelhaven/projects/asp/website/myWebApp/obj/Debug/netcoreapp3.1/Razor/Views/Home/Index.cshtml.g.cs
+/Users/rhodesskelton/Documents/csbelhaven/projects/asp/website/myWebApp/obj/Debug/netcoreapp3.1/Razor/Views/One/Index.cshtml.g.cs
+/Users/rhodesskelton/Documents/csbelhaven/projects/asp/website/myWebApp/obj/Debug/netcoreapp3.1/Razor/Views/Two/Index.cshtml.g.cs
