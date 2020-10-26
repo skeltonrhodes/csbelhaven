@@ -1,0 +1,39 @@
+node00 netstat before server launch(also node00) and client launches(node01 and 02):
+
+Active Internet connections (w/o servers)
+Proto Recv-Q Send-Q Local Address           Foreign Address         State      
+Active UNIX domain sockets (w/o servers)
+Proto RefCnt Flags       Type       State         I-Node   Path
+
+node00 netstat while clients(01 and 02) were waiting for response from 00:
+
+Active Internet connections (w/o servers)
+Proto Recv-Q Send-Q Local Address           Foreign Address         State      
+tcp        0      0 node00:freeciv          hw3_node01_1.hw3_:37632 ESTABLISHED
+tcp        0      0 node00:freeciv          hw3_node02_1.hw3_:47544 ESTABLISHED
+Active UNIX domain sockets (w/o servers)
+Proto RefCnt Flags       Type       State         I-Node   Path
+unix  3      [ ]         STREAM     CONNECTED     43969    
+unix  3      [ ]         STREAM     CONNECTED     43970    
+unix  3      [ ]         STREAM     CONNECTED     43971    
+unix  3      [ ]         STREAM     CONNECTED     43976    
+unix  3      [ ]         STREAM     CONNECTED     43973    
+unix  3      [ ]         STREAM     CONNECTED     43972    
+unix  3      [ ]         STREAM     CONNECTED     43974    
+unix  3      [ ]         STREAM     CONNECTED     43975    
+
+
+node00 netstat after client services shutdown:
+
+Active Internet connections (w/o servers)
+Proto Recv-Q Send-Q Local Address           Foreign Address         State      
+Active UNIX domain sockets (w/o servers)
+Proto RefCnt Flags       Type       State         I-Node   Path
+unix  3      [ ]         STREAM     CONNECTED     43969    
+unix  3      [ ]         STREAM     CONNECTED     43970    
+unix  3      [ ]         STREAM     CONNECTED     43971    
+unix  3      [ ]         STREAM     CONNECTED     43976    
+unix  3      [ ]         STREAM     CONNECTED     43973    
+unix  3      [ ]         STREAM     CONNECTED     43972    
+unix  3      [ ]         STREAM     CONNECTED     43974    
+unix  3      [ ]         STREAM     CONNECTED     43975    

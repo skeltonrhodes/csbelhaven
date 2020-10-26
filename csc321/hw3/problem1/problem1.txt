@@ -1,0 +1,40 @@
+Node00 netstat without client and server running:
+
+Active Internet connections (w/o servers)
+Proto Recv-Q Send-Q Local Address           Foreign Address         State      
+Active UNIX domain sockets (w/o servers)
+Proto RefCnt Flags       Type       State         I-Node   Path
+
+
+Node00 with client and server running:
+
+Active Internet connections (w/o servers)
+Proto Recv-Q Send-Q Local Address           Foreign Address         State      
+tcp        0      0 node00:5555             node00:47114            ESTABLISHED
+tcp        0      0 node00:47114            node00:5555             ESTABLISHED
+Active UNIX domain sockets (w/o servers)
+Proto RefCnt Flags       Type       State         I-Node   Path
+unix  3      [ ]         STREAM     CONNECTED     29467    
+unix  3      [ ]         STREAM     CONNECTED     29468    
+unix  3      [ ]         STREAM     CONNECTED     29466    
+unix  3      [ ]         STREAM     CONNECTED     29453    
+unix  3      [ ]         STREAM     CONNECTED     29452    
+unix  3      [ ]         STREAM     CONNECTED     29455    
+unix  3      [ ]         STREAM     CONNECTED     29454    
+unix  3      [ ]         STREAM     CONNECTED     29463    
+unix  3      [ ]         STREAM     CONNECTED     29465    
+unix  3      [ ]         STREAM     CONNECTED     29464    
+unix  3      [ ]         STREAM     CONNECTED     29456    
+unix  3      [ ]         STREAM     CONNECTED     29449    
+unix  3      [ ]         STREAM     CONNECTED     29450    
+unix  3      [ ]         STREAM     CONNECTED     29451    
+unix  3      [ ]         STREAM     CONNECTED     29835    
+unix  3      [ ]         STREAM     CONNECTED     29836 
+
+Node00 after client and server shutdown:
+
+Active Internet connections (w/o servers)
+Proto Recv-Q Send-Q Local Address           Foreign Address         State      
+tcp        0      0 node00:47114            node00:5555             TIME_WAIT  
+Active UNIX domain sockets (w/o servers)
+Proto RefCnt Flags       Type       State         I-Node   Path
