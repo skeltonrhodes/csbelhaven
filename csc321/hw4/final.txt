@@ -1,0 +1,1224 @@
+domain
+Host domain not found: 3(NXDOMAIN)
+
+google.com
+google.com has address 172.217.9.174
+google.com has IPv6 address 2607:f8b0:4000:814::200e
+google.com mail is handled by 10 aspmx.l.google.com.
+google.com mail is handled by 20 alt1.aspmx.l.google.com.
+google.com mail is handled by 30 alt2.aspmx.l.google.com.
+google.com mail is handled by 40 alt3.aspmx.l.google.com.
+google.com mail is handled by 50 alt4.aspmx.l.google.com.
+174.9.217.172.in-addr.arpa domain name pointer dfw25s27-in-f14.1e100.net.
+e.0.0.2.0.0.0.0.0.0.0.0.0.0.0.0.4.1.8.0.0.0.0.4.0.b.8.f.7.0.6.2.ip6.arpa domain name pointer dfw25s27-in-x0e.1e100.net.
+
+youtube.com
+youtube.com has address 216.58.193.142
+youtube.com has IPv6 address 2607:f8b0:4000:808::200e
+youtube.com mail is handled by 10 aspmx.l.google.com.
+youtube.com mail is handled by 20 alt1.aspmx.l.google.com.
+youtube.com mail is handled by 30 alt2.aspmx.l.google.com.
+youtube.com mail is handled by 40 alt3.aspmx.l.google.com.
+youtube.com mail is handled by 50 alt4.aspmx.l.google.com.
+142.193.58.216.in-addr.arpa domain name pointer dfw25s34-in-f14.1e100.net.
+142.193.58.216.in-addr.arpa domain name pointer atl14s08-in-f142.1e100.net.
+e.0.0.2.0.0.0.0.0.0.0.0.0.0.0.0.8.0.8.0.0.0.0.4.0.b.8.f.7.0.6.2.ip6.arpa domain name pointer dfw25s34-in-x0e.1e100.net.
+
+facebook.com
+facebook.com has address 157.240.19.35
+facebook.com has IPv6 address 2a03:2880:f134:83:face:b00c::25de
+facebook.com mail is handled by 10 smtpin.vvv.facebook.com.
+35.19.240.157.in-addr.arpa domain name pointer edge-star-mini-shv-01-dfw5.facebook.com.
+e.d.5.2.0.0.0.0.c.0.0.b.e.c.a.f.3.8.0.0.4.3.1.f.0.8.8.2.3.0.a.2.ip6.arpa domain name pointer edge-star-mini6-shv-01-dfw5.facebook.com.
+
+baidu.com
+baidu.com has address 220.181.38.148
+baidu.com has address 39.156.69.79
+baidu.com mail is handled by 10 mx.maillb.baidu.com.
+baidu.com mail is handled by 15 mx.n.shifen.com.
+baidu.com mail is handled by 20 mx1.baidu.com.
+baidu.com mail is handled by 20 jpmx.baidu.com.
+baidu.com mail is handled by 20 mx50.baidu.com.
+Host 148.38.181.220.in-addr.arpa. not found: 3(NXDOMAIN)
+Host 79.69.156.39.in-addr.arpa. not found: 3(NXDOMAIN)
+
+yahoo.com
+yahoo.com has address 98.137.11.164
+yahoo.com has address 74.6.143.25
+yahoo.com has address 74.6.143.26
+yahoo.com has address 74.6.231.20
+yahoo.com has address 74.6.231.21
+yahoo.com has address 98.137.11.163
+yahoo.com has IPv6 address 2001:4998:44:3507::8001
+yahoo.com has IPv6 address 2001:4998:124:1507::f000
+yahoo.com has IPv6 address 2001:4998:124:1507::f001
+yahoo.com has IPv6 address 2001:4998:24:120d::1:0
+yahoo.com has IPv6 address 2001:4998:24:120d::1:1
+yahoo.com has IPv6 address 2001:4998:44:3507::8000
+yahoo.com mail is handled by 1 mta5.am0.yahoodns.net.
+yahoo.com mail is handled by 1 mta6.am0.yahoodns.net.
+yahoo.com mail is handled by 1 mta7.am0.yahoodns.net.
+164.11.137.98.in-addr.arpa domain name pointer media-router-fp73.prod.media.vip.gq1.yahoo.com.
+25.143.6.74.in-addr.arpa domain name pointer media-router-fp73.prod.media.vip.bf1.yahoo.com.
+26.143.6.74.in-addr.arpa domain name pointer media-router-fp74.prod.media.vip.bf1.yahoo.com.
+20.231.6.74.in-addr.arpa domain name pointer media-router-fp73.prod.media.vip.ne1.yahoo.com.
+21.231.6.74.in-addr.arpa domain name pointer media-router-fp74.prod.media.vip.ne1.yahoo.com.
+163.11.137.98.in-addr.arpa domain name pointer media-router-fp74.prod.media.vip.gq1.yahoo.com.
+1.0.0.8.0.0.0.0.0.0.0.0.0.0.0.0.7.0.5.3.4.4.0.0.8.9.9.4.1.0.0.2.ip6.arpa domain name pointer media-router-fp74.prod.media.vip.ne1.yahoo.com.
+0.0.0.f.0.0.0.0.0.0.0.0.0.0.0.0.7.0.5.1.4.2.1.0.8.9.9.4.1.0.0.2.ip6.arpa domain name pointer media-router-fp73.prod.media.vip.bf1.yahoo.com.
+1.0.0.f.0.0.0.0.0.0.0.0.0.0.0.0.7.0.5.1.4.2.1.0.8.9.9.4.1.0.0.2.ip6.arpa domain name pointer media-router-fp74.prod.media.vip.bf1.yahoo.com.
+0.0.0.0.1.0.0.0.0.0.0.0.0.0.0.0.d.0.2.1.4.2.0.0.8.9.9.4.1.0.0.2.ip6.arpa domain name pointer media-router-fp73.prod.media.vip.gq1.yahoo.com.
+1.0.0.0.1.0.0.0.0.0.0.0.0.0.0.0.d.0.2.1.4.2.0.0.8.9.9.4.1.0.0.2.ip6.arpa domain name pointer media-router-fp74.prod.media.vip.gq1.yahoo.com.
+0.0.0.8.0.0.0.0.0.0.0.0.0.0.0.0.7.0.5.3.4.4.0.0.8.9.9.4.1.0.0.2.ip6.arpa domain name pointer media-router-fp73.prod.media.vip.ne1.yahoo.com.
+
+amazon.com
+amazon.com has address 205.251.242.103
+amazon.com has address 176.32.98.166
+amazon.com has address 176.32.103.205
+amazon.com mail is handled by 5 amazon-smtp.amazon.com.
+103.242.251.205.in-addr.arpa domain name pointer s3-console-us-standard.console.aws.amazon.com.
+Host 166.98.32.176.in-addr.arpa. not found: 3(NXDOMAIN)
+Host 205.103.32.176.in-addr.arpa. not found: 3(NXDOMAIN)
+
+wikipedia.org
+wikipedia.org has address 208.80.153.224
+wikipedia.org has IPv6 address 2620:0:860:ed1a::1
+wikipedia.org mail is handled by 10 mx1001.wikimedia.org.
+wikipedia.org mail is handled by 50 mx2001.wikimedia.org.
+224.153.80.208.in-addr.arpa domain name pointer text-lb.codfw.wikimedia.org.
+1.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.a.1.d.e.0.6.8.0.0.0.0.0.0.2.6.2.ip6.arpa domain name pointer text-lb.codfw.wikimedia.org.
+
+qq.com
+qq.com has address 58.250.137.36
+qq.com has address 125.39.52.26
+qq.com has address 58.247.214.47
+qq.com mail is handled by 10 mx3.qq.com.
+qq.com mail is handled by 20 mx2.qq.com.
+qq.com mail is handled by 30 mx1.qq.com.
+Host 36.137.250.58.in-addr.arpa. not found: 3(NXDOMAIN)
+26.52.39.125.in-addr.arpa domain name pointer no-data.
+Host 47.214.247.58.in-addr.arpa. not found: 3(NXDOMAIN)
+
+google.co.in
+google.co.in has address 172.217.9.3
+google.co.in has IPv6 address 2607:f8b0:4000:812::2003
+google.co.in mail is handled by 10 aspmx.l.google.com.
+google.co.in mail is handled by 20 alt1.aspmx.l.google.com.
+google.co.in mail is handled by 30 alt2.aspmx.l.google.com.
+google.co.in mail is handled by 40 alt3.aspmx.l.google.com.
+google.co.in mail is handled by 50 alt4.aspmx.l.google.com.
+3.9.217.172.in-addr.arpa domain name pointer dfw28s02-in-f3.1e100.net.
+3.0.0.2.0.0.0.0.0.0.0.0.0.0.0.0.2.1.8.0.0.0.0.4.0.b.8.f.7.0.6.2.ip6.arpa domain name pointer dfw28s02-in-x03.1e100.net.
+
+twitter.com
+twitter.com has address 104.244.42.129
+twitter.com has address 104.244.42.193
+twitter.com mail is handled by 10 aspmx.l.google.com.
+twitter.com mail is handled by 20 alt1.aspmx.l.google.com.
+twitter.com mail is handled by 20 alt2.aspmx.l.google.com.
+twitter.com mail is handled by 30 aspmx2.googlemail.com.
+twitter.com mail is handled by 30 aspmx3.googlemail.com.
+Host 129.42.244.104.in-addr.arpa not found: 2(SERVFAIL)
+Host 193.42.244.104.in-addr.arpa not found: 2(SERVFAIL)
+
+live.com
+live.com has address 204.79.197.212
+live.com mail is handled by 2 live-com.olc.protection.outlook.com.
+212.197.79.204.in-addr.arpa domain name pointer a-0010.a-msedge.net.
+
+taobao.com
+taobao.com has address 140.205.220.96
+taobao.com has address 140.205.94.189
+taobao.com mail is handled by 10 mx1.alibaba-inc.com.
+Host 96.220.205.140.in-addr.arpa. not found: 3(NXDOMAIN)
+Host 189.94.205.140.in-addr.arpa. not found: 3(NXDOMAIN)
+
+google.co.jp
+google.co.jp has address 172.217.9.131
+google.co.jp has IPv6 address 2607:f8b0:4000:813::2003
+google.co.jp mail is handled by 10 aspmx.l.google.com.
+google.co.jp mail is handled by 20 alt1.aspmx.l.google.com.
+google.co.jp mail is handled by 30 alt2.aspmx.l.google.com.
+google.co.jp mail is handled by 40 alt3.aspmx.l.google.com.
+google.co.jp mail is handled by 50 alt4.aspmx.l.google.com.
+131.9.217.172.in-addr.arpa domain name pointer dfw25s26-in-f3.1e100.net.
+3.0.0.2.0.0.0.0.0.0.0.0.0.0.0.0.3.1.8.0.0.0.0.4.0.b.8.f.7.0.6.2.ip6.arpa domain name pointer dfw25s26-in-x03.1e100.net.
+
+bing.com
+bing.com has address 13.107.21.200
+bing.com has address 204.79.197.200
+bing.com has IPv6 address 2620:1ec:c11::200
+bing.com mail is handled by 10 bing-com.mail.protection.outlook.com.
+Host 200.21.107.13.in-addr.arpa. not found: 3(NXDOMAIN)
+200.197.79.204.in-addr.arpa domain name pointer a-0001.a-msedge.net.
+Host 0.0.2.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.1.1.c.0.c.e.1.0.0.2.6.2.ip6.arpa not found: 3(NXDOMAIN)
+
+instagram.com
+instagram.com has address 34.226.75.20
+instagram.com has address 52.5.39.111
+instagram.com has address 52.7.198.84
+instagram.com has address 52.71.109.30
+instagram.com has address 52.200.54.57
+instagram.com has address 54.165.214.173
+instagram.com has address 54.172.200.155
+instagram.com has address 3.218.162.209
+instagram.com has IPv6 address 2406:da00:ff00::3447:df22
+instagram.com has IPv6 address 2406:da00:ff00::369c:b240
+instagram.com has IPv6 address 2406:da00:ff00::3d3:be26
+instagram.com has IPv6 address 2406:da00:ff00::3da:38f
+instagram.com has IPv6 address 2406:da00:ff00::3e4:4edb
+instagram.com has IPv6 address 2406:da00:ff00::12d6:9608
+instagram.com has IPv6 address 2406:da00:ff00::22c7:8eeb
+instagram.com has IPv6 address 2406:da00:ff00::22cb:7c9
+instagram.com mail is handled by 10 mxa-00082601.gslb.pphosted.com.
+instagram.com mail is handled by 10 mxb-00082601.gslb.pphosted.com.
+20.75.226.34.in-addr.arpa domain name pointer ec2-34-226-75-20.compute-1.amazonaws.com.
+111.39.5.52.in-addr.arpa domain name pointer ec2-52-5-39-111.compute-1.amazonaws.com.
+84.198.7.52.in-addr.arpa domain name pointer ec2-52-7-198-84.compute-1.amazonaws.com.
+30.109.71.52.in-addr.arpa domain name pointer ec2-52-71-109-30.compute-1.amazonaws.com.
+57.54.200.52.in-addr.arpa domain name pointer ec2-52-200-54-57.compute-1.amazonaws.com.
+173.214.165.54.in-addr.arpa domain name pointer ec2-54-165-214-173.compute-1.amazonaws.com.
+155.200.172.54.in-addr.arpa domain name pointer ec2-54-172-200-155.compute-1.amazonaws.com.
+209.162.218.3.in-addr.arpa domain name pointer ec2-3-218-162-209.compute-1.amazonaws.com.
+Host 2.2.f.d.7.4.4.3.0.0.0.0.0.0.0.0.0.0.0.0.0.0.f.f.0.0.a.d.6.0.4.2.ip6.arpa not found: 3(NXDOMAIN)
+Host 0.4.2.b.c.9.6.3.0.0.0.0.0.0.0.0.0.0.0.0.0.0.f.f.0.0.a.d.6.0.4.2.ip6.arpa not found: 3(NXDOMAIN)
+Host 6.2.e.b.3.d.3.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.f.f.0.0.a.d.6.0.4.2.ip6.arpa not found: 3(NXDOMAIN)
+Host f.8.3.0.a.d.3.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.f.f.0.0.a.d.6.0.4.2.ip6.arpa not found: 3(NXDOMAIN)
+Host b.d.e.4.4.e.3.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.f.f.0.0.a.d.6.0.4.2.ip6.arpa not found: 3(NXDOMAIN)
+Host 8.0.6.9.6.d.2.1.0.0.0.0.0.0.0.0.0.0.0.0.0.0.f.f.0.0.a.d.6.0.4.2.ip6.arpa not found: 3(NXDOMAIN)
+Host b.e.e.8.7.c.2.2.0.0.0.0.0.0.0.0.0.0.0.0.0.0.f.f.0.0.a.d.6.0.4.2.ip6.arpa not found: 3(NXDOMAIN)
+Host 9.c.7.0.b.c.2.2.0.0.0.0.0.0.0.0.0.0.0.0.0.0.f.f.0.0.a.d.6.0.4.2.ip6.arpa not found: 3(NXDOMAIN)
+
+weibo.com
+weibo.com has address 47.254.92.5
+weibo.com mail is handled by 10 mx.sina.net.
+Host 5.92.254.47.in-addr.arpa. not found: 3(NXDOMAIN)
+
+sina.com.cn
+sina.com.cn has address 123.125.104.150
+sina.com.cn has address 123.126.45.205
+sina.com.cn has address 123.126.55.41
+sina.com.cn has address 49.7.37.133
+sina.com.cn mail is handled by 10 freemx1.sinamail.sina.com.cn.
+sina.com.cn mail is handled by 10 freemx2.sinamail.sina.com.cn.
+sina.com.cn mail is handled by 10 freemx3.sinamail.sina.com.cn.
+Host 150.104.125.123.in-addr.arpa. not found: 3(NXDOMAIN)
+Host 205.45.126.123.in-addr.arpa. not found: 3(NXDOMAIN)
+Host 41.55.126.123.in-addr.arpa. not found: 3(NXDOMAIN)
+Host 133.37.7.49.in-addr.arpa. not found: 3(NXDOMAIN)
+
+linkedin.com
+linkedin.com has address 108.174.10.10
+linkedin.com has IPv6 address 2620:109:c002::6cae:a0a
+linkedin.com mail is handled by 10 mail-c.linkedin.com.
+linkedin.com mail is handled by 10 mail-d.linkedin.com.
+linkedin.com mail is handled by 15 mail-a.linkedin.com.
+linkedin.com mail is handled by 20 mail.linkedin.com.
+10.10.174.108.in-addr.arpa domain name pointer 108-174-10-10.fwd.linkedin.com.
+Host a.0.a.0.e.a.c.6.0.0.0.0.0.0.0.0.0.0.0.0.2.0.0.c.9.0.1.0.0.2.6.2.ip6.arpa not found: 3(NXDOMAIN)
+
+yahoo.co.jp
+yahoo.co.jp has address 183.79.135.206
+yahoo.co.jp has address 182.22.59.229
+yahoo.co.jp mail is handled by 10 mx1.mail.yahoo.co.jp.
+yahoo.co.jp mail is handled by 10 mx2.mail.yahoo.co.jp.
+yahoo.co.jp mail is handled by 10 mx3.mail.yahoo.co.jp.
+yahoo.co.jp mail is handled by 10 mx5.mail.yahoo.co.jp.
+206.135.79.183.in-addr.arpa domain name pointer f1.top.vip.kks.yahoo.co.jp.
+229.59.22.182.in-addr.arpa domain name pointer f1.top.vip.ssk.yahoo.co.jp.
+
+msn.com
+msn.com has address 13.82.28.61
+msn.com mail is handled by 2 msn-com.olc.protection.outlook.com.
+Host 61.28.82.13.in-addr.arpa. not found: 3(NXDOMAIN)
+
+vk.com
+vk.com has address 87.240.190.67
+vk.com has address 87.240.190.72
+vk.com has address 87.240.190.78
+vk.com has address 93.186.225.208
+vk.com has address 87.240.137.158
+vk.com has address 87.240.139.194
+vk.com mail is handled by 0 mx.vk.com.
+vk.com mail is handled by 20 mx2.vk.com.
+67.190.240.87.in-addr.arpa domain name pointer srv67-190-240-87.vk.com.
+72.190.240.87.in-addr.arpa domain name pointer srv72-190-240-87.vk.com.
+78.190.240.87.in-addr.arpa domain name pointer srv78-190-240-87.vk.com.
+208.225.186.93.in-addr.arpa has no PTR record
+158.137.240.87.in-addr.arpa domain name pointer srv158-137-240-87.vk.com.
+194.139.240.87.in-addr.arpa domain name pointer srv194-139-240-87.vk.com.
+
+google.de
+google.de has address 142.250.68.163
+google.de has IPv6 address 2607:f8b0:4000:801::2003
+google.de mail is handled by 10 aspmx.l.google.com.
+google.de mail is handled by 20 alt1.aspmx.l.google.com.
+google.de mail is handled by 30 alt2.aspmx.l.google.com.
+google.de mail is handled by 40 alt3.aspmx.l.google.com.
+google.de mail is handled by 50 alt4.aspmx.l.google.com.
+163.68.250.142.in-addr.arpa domain name pointer dfw25s41-in-f3.1e100.net.
+3.0.0.2.0.0.0.0.0.0.0.0.0.0.0.0.1.0.8.0.0.0.0.4.0.b.8.f.7.0.6.2.ip6.arpa domain name pointer dfw25s41-in-x03.1e100.net.
+
+yandex.ru
+yandex.ru has address 77.88.55.80
+yandex.ru has address 77.88.55.88
+yandex.ru has address 5.255.255.80
+yandex.ru has address 5.255.255.88
+yandex.ru has IPv6 address 2a02:6b8:a::a
+yandex.ru mail is handled by 10 mx.yandex.ru.
+80.55.88.77.in-addr.arpa domain name pointer yandex.ru.
+88.55.88.77.in-addr.arpa domain name pointer yandex.ru.
+80.255.255.5.in-addr.arpa domain name pointer yandex.ru.
+88.255.255.5.in-addr.arpa domain name pointer yandex.ru.
+a.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.a.0.0.0.8.b.6.0.2.0.a.2.ip6.arpa domain name pointer yandex.ru.
+
+hao123.com
+hao123.com has address 106.120.159.68
+hao123.com has address 202.106.2.86
+hao123.com has address 39.156.68.154
+Host 68.159.120.106.in-addr.arpa. not found: 3(NXDOMAIN)
+Host 86.2.106.202.in-addr.arpa. not found: 3(NXDOMAIN)
+Host 154.68.156.39.in-addr.arpa. not found: 3(NXDOMAIN)
+
+google.co.uk
+google.co.uk has address 172.217.1.131
+google.co.uk has IPv6 address 2607:f8b0:4000:817::2003
+google.co.uk mail is handled by 10 aspmx.l.google.com.
+google.co.uk mail is handled by 20 alt1.aspmx.l.google.com.
+google.co.uk mail is handled by 30 alt2.aspmx.l.google.com.
+google.co.uk mail is handled by 40 alt3.aspmx.l.google.com.
+google.co.uk mail is handled by 50 alt4.aspmx.l.google.com.
+131.1.217.172.in-addr.arpa domain name pointer dfw28s23-in-f3.1e100.net.
+131.1.217.172.in-addr.arpa domain name pointer atl14s07-in-f131.1e100.net.
+3.0.0.2.0.0.0.0.0.0.0.0.0.0.0.0.7.1.8.0.0.0.0.4.0.b.8.f.7.0.6.2.ip6.arpa domain name pointer dfw28s23-in-x03.1e100.net.
+
+reddit.com
+reddit.com has address 151.101.193.140
+reddit.com has address 151.101.1.140
+reddit.com has address 151.101.65.140
+reddit.com has address 151.101.129.140
+reddit.com mail is handled by 1 aspmx.l.google.com.
+reddit.com mail is handled by 5 alt1.aspmx.l.google.com.
+reddit.com mail is handled by 5 alt2.aspmx.l.google.com.
+reddit.com mail is handled by 10 aspmx2.googlemail.com.
+reddit.com mail is handled by 10 aspmx3.googlemail.com.
+Host 140.193.101.151.in-addr.arpa. not found: 3(NXDOMAIN)
+Host 140.1.101.151.in-addr.arpa. not found: 3(NXDOMAIN)
+Host 140.65.101.151.in-addr.arpa. not found: 3(NXDOMAIN)
+Host 140.129.101.151.in-addr.arpa. not found: 3(NXDOMAIN)
+
+ebay.com
+ebay.com has address 66.135.195.175
+ebay.com has address 66.135.196.249
+ebay.com mail is handled by 10 mx1.hc2186-24.iphmx.com.
+ebay.com mail is handled by 10 mx2.hc2186-24.iphmx.com.
+175.195.135.66.in-addr.arpa domain name pointer ru.ebay.com.
+249.196.135.66.in-addr.arpa domain name pointer ru.ebay.com.
+
+google.fr
+google.fr has address 172.217.14.163
+google.fr has IPv6 address 2607:f8b0:4000:806::2003
+google.fr mail is handled by 10 aspmx.l.google.com.
+google.fr mail is handled by 20 alt1.aspmx.l.google.com.
+google.fr mail is handled by 30 alt2.aspmx.l.google.com.
+google.fr mail is handled by 40 alt3.aspmx.l.google.com.
+google.fr mail is handled by 50 alt4.aspmx.l.google.com.
+163.14.217.172.in-addr.arpa domain name pointer dfw28s22-in-f3.1e100.net.
+3.0.0.2.0.0.0.0.0.0.0.0.0.0.0.0.6.0.8.0.0.0.0.4.0.b.8.f.7.0.6.2.ip6.arpa domain name pointer dfw06s38-in-x03.1e100.net.
+3.0.0.2.0.0.0.0.0.0.0.0.0.0.0.0.6.0.8.0.0.0.0.4.0.b.8.f.7.0.6.2.ip6.arpa domain name pointer dfw28s22-in-x03.1e100.net.
+
+t.co
+t.co has address 104.244.42.197
+t.co has address 104.244.42.5
+t.co has address 104.244.42.69
+t.co has address 104.244.42.133
+Host 197.42.244.104.in-addr.arpa not found: 2(SERVFAIL)
+Host 5.42.244.104.in-addr.arpa not found: 2(SERVFAIL)
+Host 69.42.244.104.in-addr.arpa not found: 2(SERVFAIL)
+Host 133.42.244.104.in-addr.arpa not found: 2(SERVFAIL)
+
+tmall.com
+tmall.com has address 140.205.130.99
+tmall.com has address 140.205.94.193
+tmall.com mail is handled by 10 mx1.alibaba-inc.com.
+Host 99.130.205.140.in-addr.arpa. not found: 3(NXDOMAIN)
+Host 193.94.205.140.in-addr.arpa. not found: 3(NXDOMAIN)
+
+google.com.br
+google.com.br has address 172.217.12.67
+google.com.br has IPv6 address 2607:f8b0:4000:816::2003
+google.com.br mail is handled by 10 aspmx.l.google.com.
+google.com.br mail is handled by 20 alt1.aspmx.l.google.com.
+google.com.br mail is handled by 30 alt2.aspmx.l.google.com.
+google.com.br mail is handled by 40 alt3.aspmx.l.google.com.
+google.com.br mail is handled by 50 alt4.aspmx.l.google.com.
+67.12.217.172.in-addr.arpa domain name pointer dfw28s05-in-f3.1e100.net.
+3.0.0.2.0.0.0.0.0.0.0.0.0.0.0.0.6.1.8.0.0.0.0.4.0.b.8.f.7.0.6.2.ip6.arpa domain name pointer dfw28s05-in-x03.1e100.net.
+
+360.cn
+360.cn has address 36.110.213.10
+360.cn has address 36.99.170.84
+360.cn mail is handled by 3 mx1.qihoo.net.
+360.cn mail is handled by 3 mx2.qihoo.net.
+360.cn mail is handled by 5 mx3.qihoo.net.
+Host 10.213.110.36.in-addr.arpa not found: 2(SERVFAIL)
+Host 84.170.99.36.in-addr.arpa not found: 2(SERVFAIL)
+
+sohu.com
+sohu.com has address 211.159.191.18
+sohu.com mail is handled by 5 sohumx1.sohu.com.
+sohu.com mail is handled by 5 sohumx2.sohu.com.
+sohu.com mail is handled by 10 sohumx.h.a.sohu.com.
+Host 18.191.159.211.in-addr.arpa. not found: 3(NXDOMAIN)
+
+amazon.co.jp
+amazon.co.jp has address 52.119.161.5
+amazon.co.jp has address 52.119.164.121
+amazon.co.jp has address 52.119.168.48
+amazon.co.jp mail is handled by 10 amazon-smtp.amazon.com.
+Host 5.161.119.52.in-addr.arpa. not found: 3(NXDOMAIN)
+Host 121.164.119.52.in-addr.arpa. not found: 3(NXDOMAIN)
+Host 48.168.119.52.in-addr.arpa. not found: 3(NXDOMAIN)
+
+pinterest.com
+pinterest.com has address 151.101.64.84
+pinterest.com has address 151.101.128.84
+pinterest.com has address 151.101.192.84
+pinterest.com has address 151.101.0.84
+pinterest.com mail is handled by 1 aspmx.l.google.com.
+pinterest.com mail is handled by 5 alt1.aspmx.l.google.com.
+pinterest.com mail is handled by 5 alt2.aspmx.l.google.com.
+pinterest.com mail is handled by 10 alt3.aspmx.l.google.com.
+pinterest.com mail is handled by 10 alt4.aspmx.l.google.com.
+Host 84.64.101.151.in-addr.arpa. not found: 3(NXDOMAIN)
+Host 84.128.101.151.in-addr.arpa. not found: 3(NXDOMAIN)
+Host 84.192.101.151.in-addr.arpa. not found: 3(NXDOMAIN)
+Host 84.0.101.151.in-addr.arpa. not found: 3(NXDOMAIN)
+
+mail.ru
+mail.ru has address 94.100.180.200
+mail.ru has address 94.100.180.201
+mail.ru has address 217.69.139.200
+mail.ru has address 217.69.139.202
+mail.ru has IPv6 address 2a00:1148:db00:0:b0b0::1
+mail.ru mail is handled by 10 mxs.mail.ru.
+200.180.100.94.in-addr.arpa domain name pointer mail.ru.
+201.180.100.94.in-addr.arpa domain name pointer mail.ru.
+200.139.69.217.in-addr.arpa domain name pointer mail.ru.
+202.139.69.217.in-addr.arpa domain name pointer mail.ru.
+1.0.0.0.0.0.0.0.0.0.0.0.0.b.0.b.0.0.0.0.0.0.b.d.8.4.1.1.0.0.a.2.ip6.arpa domain name pointer mail.ru.
+
+onclickads.net
+onclickads.net has address 146.112.195.92
+onclickads.net has IPv6 address ::ffff:204.194.238.159
+onclickads.net mail is handled by 10 relay.bestofpost.com.
+onclickads.net mail is handled by 20 alt1.aspmx.l.google.com.
+onclickads.net mail is handled by 20 aspmx.l.google.com.
+onclickads.net mail is handled by 30 alt2.aspmx.l.google.com.
+onclickads.net mail is handled by 40 aspmx2.googlemail.com.
+onclickads.net mail is handled by 40 aspmx3.googlemail.com.
+Host 92.195.112.146.in-addr.arpa. not found: 3(NXDOMAIN)
+Host f.9.e.e.2.c.c.c.f.f.f.f.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.ip6.arpa not found: 3(NXDOMAIN)
+
+netflix.com
+netflix.com has address 52.87.87.3
+netflix.com has address 52.87.118.227
+netflix.com has address 54.156.186.14
+netflix.com has address 54.165.16.47
+netflix.com has address 54.173.102.182
+netflix.com has address 54.175.17.240
+netflix.com has address 34.194.68.3
+netflix.com has address 34.198.43.9
+netflix.com has IPv6 address 2406:da00:ff00::369c:ba0e
+netflix.com has IPv6 address 2406:da00:ff00::36a5:102f
+netflix.com has IPv6 address 2406:da00:ff00::36ad:66b6
+netflix.com has IPv6 address 2406:da00:ff00::36af:11f0
+netflix.com has IPv6 address 2406:da00:ff00::36d2:41fd
+netflix.com has IPv6 address 2406:da00:ff00::36d2:876f
+netflix.com has IPv6 address 2406:da00:ff00::3407:17a
+netflix.com has IPv6 address 2406:da00:ff00::3449:a1ab
+netflix.com mail is handled by 1 aspmx.l.google.com.
+netflix.com mail is handled by 5 alt1.aspmx.l.google.com.
+netflix.com mail is handled by 5 alt2.aspmx.l.google.com.
+netflix.com mail is handled by 10 aspmx2.googlemail.com.
+netflix.com mail is handled by 10 aspmx3.googlemail.com.
+3.87.87.52.in-addr.arpa domain name pointer ec2-52-87-87-3.compute-1.amazonaws.com.
+227.118.87.52.in-addr.arpa domain name pointer ec2-52-87-118-227.compute-1.amazonaws.com.
+14.186.156.54.in-addr.arpa domain name pointer ec2-54-156-186-14.compute-1.amazonaws.com.
+47.16.165.54.in-addr.arpa domain name pointer ec2-54-165-16-47.compute-1.amazonaws.com.
+182.102.173.54.in-addr.arpa domain name pointer ec2-54-173-102-182.compute-1.amazonaws.com.
+240.17.175.54.in-addr.arpa domain name pointer ec2-54-175-17-240.compute-1.amazonaws.com.
+3.68.194.34.in-addr.arpa domain name pointer ec2-34-194-68-3.compute-1.amazonaws.com.
+9.43.198.34.in-addr.arpa domain name pointer ec2-34-198-43-9.compute-1.amazonaws.com.
+Host e.0.a.b.c.9.6.3.0.0.0.0.0.0.0.0.0.0.0.0.0.0.f.f.0.0.a.d.6.0.4.2.ip6.arpa not found: 3(NXDOMAIN)
+Host f.2.0.1.5.a.6.3.0.0.0.0.0.0.0.0.0.0.0.0.0.0.f.f.0.0.a.d.6.0.4.2.ip6.arpa not found: 3(NXDOMAIN)
+Host 6.b.6.6.d.a.6.3.0.0.0.0.0.0.0.0.0.0.0.0.0.0.f.f.0.0.a.d.6.0.4.2.ip6.arpa not found: 3(NXDOMAIN)
+Host 0.f.1.1.f.a.6.3.0.0.0.0.0.0.0.0.0.0.0.0.0.0.f.f.0.0.a.d.6.0.4.2.ip6.arpa not found: 3(NXDOMAIN)
+Host d.f.1.4.2.d.6.3.0.0.0.0.0.0.0.0.0.0.0.0.0.0.f.f.0.0.a.d.6.0.4.2.ip6.arpa not found: 3(NXDOMAIN)
+Host f.6.7.8.2.d.6.3.0.0.0.0.0.0.0.0.0.0.0.0.0.0.f.f.0.0.a.d.6.0.4.2.ip6.arpa not found: 3(NXDOMAIN)
+Host a.7.1.0.7.0.4.3.0.0.0.0.0.0.0.0.0.0.0.0.0.0.f.f.0.0.a.d.6.0.4.2.ip6.arpa not found: 3(NXDOMAIN)
+Host b.a.1.a.9.4.4.3.0.0.0.0.0.0.0.0.0.0.0.0.0.0.f.f.0.0.a.d.6.0.4.2.ip6.arpa not found: 3(NXDOMAIN)
+
+google.it
+google.it has address 216.58.193.131
+google.it has IPv6 address 2607:f8b0:4000:808::2003
+google.it mail is handled by 10 aspmx.l.google.com.
+google.it mail is handled by 20 alt1.aspmx.l.google.com.
+google.it mail is handled by 30 alt2.aspmx.l.google.com.
+google.it mail is handled by 40 alt3.aspmx.l.google.com.
+google.it mail is handled by 50 alt4.aspmx.l.google.com.
+131.193.58.216.in-addr.arpa domain name pointer dfw25s34-in-f3.1e100.net.
+131.193.58.216.in-addr.arpa domain name pointer atl14s08-in-f131.1e100.net.
+3.0.0.2.0.0.0.0.0.0.0.0.0.0.0.0.8.0.8.0.0.0.0.4.0.b.8.f.7.0.6.2.ip6.arpa domain name pointer dfw25s34-in-x03.1e100.net.
+
+google.ru
+google.ru has address 172.217.6.163
+google.ru has IPv6 address 2607:f8b0:4000:804::2003
+google.ru mail is handled by 10 aspmx.l.google.com.
+google.ru mail is handled by 20 alt1.aspmx.l.google.com.
+google.ru mail is handled by 30 alt2.aspmx.l.google.com.
+google.ru mail is handled by 40 alt3.aspmx.l.google.com.
+google.ru mail is handled by 50 alt4.aspmx.l.google.com.
+163.6.217.172.in-addr.arpa domain name pointer dfw25s17-in-f3.1e100.net.
+163.6.217.172.in-addr.arpa domain name pointer dfw25s17-in-f163.1e100.net.
+3.0.0.2.0.0.0.0.0.0.0.0.0.0.0.0.4.0.8.0.0.0.0.4.0.b.8.f.7.0.6.2.ip6.arpa domain name pointer dfw25s17-in-x03.1e100.net.
+
+microsoft.com
+microsoft.com has address 40.113.200.201
+microsoft.com has address 104.215.148.63
+microsoft.com has address 13.77.161.179
+microsoft.com has address 40.76.4.15
+microsoft.com has address 40.112.72.205
+microsoft.com mail is handled by 10 microsoft-com.mail.protection.outlook.com.
+Host 201.200.113.40.in-addr.arpa. not found: 3(NXDOMAIN)
+Host 63.148.215.104.in-addr.arpa. not found: 3(NXDOMAIN)
+Host 179.161.77.13.in-addr.arpa. not found: 3(NXDOMAIN)
+Host 15.4.76.40.in-addr.arpa. not found: 3(NXDOMAIN)
+Host 205.72.112.40.in-addr.arpa. not found: 3(NXDOMAIN)
+
+google.es
+google.es has address 172.217.1.227
+google.es has IPv6 address 2607:f8b0:4000:80e::2003
+google.es mail is handled by 10 aspmx.l.google.com.
+google.es mail is handled by 20 alt1.aspmx.l.google.com.
+google.es mail is handled by 30 alt2.aspmx.l.google.com.
+google.es mail is handled by 40 alt3.aspmx.l.google.com.
+google.es mail is handled by 50 alt4.aspmx.l.google.com.
+227.1.217.172.in-addr.arpa domain name pointer dfw25s25-in-f3.1e100.net.
+227.1.217.172.in-addr.arpa domain name pointer lax17s02-in-f3.1e100.net.
+3.0.0.2.0.0.0.0.0.0.0.0.0.0.0.0.e.0.8.0.0.0.0.4.0.b.8.f.7.0.6.2.ip6.arpa domain name pointer dfw25s25-in-x03.1e100.net.
+
+wordpress.com
+wordpress.com has address 192.0.78.17
+wordpress.com has address 192.0.78.9
+wordpress.com mail is handled by 0 mail.automattic.com.
+Host 17.78.0.192.in-addr.arpa. not found: 3(NXDOMAIN)
+Host 9.78.0.192.in-addr.arpa. not found: 3(NXDOMAIN)
+
+gmw.cn
+gmw.cn has address 123.56.255.157
+gmw.cn has IPv6 address 2408:400a:38:400:df2e:c0f8:764e:7f21
+gmw.cn mail is handled by 1 mail.gmw.cn.
+Host 157.255.56.123.in-addr.arpa. not found: 3(NXDOMAIN)
+Host 1.2.f.7.e.4.6.7.8.f.0.c.e.2.f.d.0.0.4.0.8.3.0.0.a.0.0.4.8.0.4.2.ip6.arpa not found: 3(NXDOMAIN)
+
+tumblr.com
+tumblr.com has address 74.114.154.21
+tumblr.com has address 74.114.154.17
+tumblr.com mail is handled by 1 aspmx.l.google.com.
+tumblr.com mail is handled by 5 alt1.aspmx.l.google.com.
+tumblr.com mail is handled by 5 alt2.aspmx.l.google.com.
+tumblr.com mail is handled by 10 aspmx2.googlemail.com.
+tumblr.com mail is handled by 10 aspmx3.googlemail.com.
+Host 21.154.114.74.in-addr.arpa. not found: 3(NXDOMAIN)
+Host 17.154.114.74.in-addr.arpa. not found: 3(NXDOMAIN)
+
+PayPal.com
+PayPal.com has address 64.4.250.37
+PayPal.com has address 64.4.250.36
+PayPal.com mail is handled by 10 mx1.paypalcorp.com.
+PayPal.com mail is handled by 10 mx2.paypalcorp.com.
+37.250.4.64.in-addr.arpa domain name pointer paypal.com.
+36.250.4.64.in-addr.arpa domain name pointer paypal.com.
+
+blogspot.com
+blogspot.com has address 172.217.12.41
+blogspot.com has IPv6 address 2607:f8b0:4000:815::2009
+41.12.217.172.in-addr.arpa domain name pointer dfw28s04-in-f9.1e100.net.
+9.0.0.2.0.0.0.0.0.0.0.0.0.0.0.0.5.1.8.0.0.0.0.4.0.b.8.f.7.0.6.2.ip6.arpa domain name pointer dfw28s04-in-x09.1e100.net.
+
+imgur.com
+imgur.com has address 151.101.44.193
+imgur.com mail is handled by 1 aspmx.l.google.com.
+imgur.com mail is handled by 5 alt1.aspmx.l.google.com.
+imgur.com mail is handled by 5 alt2.aspmx.l.google.com.
+imgur.com mail is handled by 10 aspmx2.googlemail.com.
+imgur.com mail is handled by 10 aspmx3.googlemail.com.
+Host 193.44.101.151.in-addr.arpa. not found: 3(NXDOMAIN)
+
+stackoverflow.com
+stackoverflow.com has address 151.101.129.69
+stackoverflow.com has address 151.101.193.69
+stackoverflow.com has address 151.101.1.69
+stackoverflow.com has address 151.101.65.69
+stackoverflow.com mail is handled by 1 aspmx.l.google.com.
+stackoverflow.com mail is handled by 5 alt1.aspmx.l.google.com.
+stackoverflow.com mail is handled by 5 alt2.aspmx.l.google.com.
+stackoverflow.com mail is handled by 10 alt3.aspmx.l.google.com.
+stackoverflow.com mail is handled by 10 alt4.aspmx.l.google.com.
+Host 69.129.101.151.in-addr.arpa. not found: 3(NXDOMAIN)
+Host 69.193.101.151.in-addr.arpa. not found: 3(NXDOMAIN)
+Host 69.1.101.151.in-addr.arpa. not found: 3(NXDOMAIN)
+Host 69.65.101.151.in-addr.arpa. not found: 3(NXDOMAIN)
+
+aliexpress.com
+aliexpress.com has address 198.11.132.250
+aliexpress.com mail is handled by 10 mx2.mail.aliyun.com.
+Host 250.132.11.198.in-addr.arpa. not found: 3(NXDOMAIN)
+
+Naver.com
+Naver.com has address 210.89.160.88
+Naver.com has address 210.89.164.90
+Naver.com has address 125.209.222.141
+Naver.com has address 125.209.222.142
+Naver.com mail is handled by 10 mx1.Naver.com.
+Naver.com mail is handled by 10 mx2.Naver.com.
+Naver.com mail is handled by 10 mx3.Naver.com.
+Host 88.160.89.210.in-addr.arpa. not found: 3(NXDOMAIN)
+Host 90.164.89.210.in-addr.arpa. not found: 3(NXDOMAIN)
+Host 141.222.209.125.in-addr.arpa. not found: 3(NXDOMAIN)
+Host 142.222.209.125.in-addr.arpa. not found: 3(NXDOMAIN)
+
+ok.ru
+ok.ru has address 5.61.23.11
+ok.ru has address 217.20.147.1
+ok.ru has address 217.20.155.13
+ok.ru mail is handled by 10 mx1.es.mail.ru.
+ok.ru mail is handled by 10 mx2.es.mail.ru.
+11.23.61.5.in-addr.arpa domain name pointer ip11.23.odnoklassniki.ru.
+1.147.20.217.in-addr.arpa domain name pointer ip1.147.odnoklassniki.ru.
+13.155.20.217.in-addr.arpa domain name pointer ip13.155.odnoklassniki.ru.
+
+apple.com
+apple.com has address 17.253.144.10
+apple.com mail is handled by 10 nwk-aaemail-lapp01.apple.com.
+apple.com mail is handled by 10 nwk-aaemail-lapp02.apple.com.
+apple.com mail is handled by 10 nwk-aaemail-lapp03.apple.com.
+apple.com mail is handled by 10 ma1-aaemail-dr-lapp01.apple.com.
+apple.com mail is handled by 10 ma1-aaemail-dr-lapp02.apple.com.
+apple.com mail is handled by 10 ma1-aaemail-dr-lapp03.apple.com.
+10.144.253.17.in-addr.arpa domain name pointer www.icmoud.com.
+10.144.253.17.in-addr.arpa domain name pointer apple.com.
+10.144.253.17.in-addr.arpa domain name pointer icloud.com.
+10.144.253.17.in-addr.arpa domain name pointer icloud.com.cn.
+10.144.253.17.in-addr.arpa domain name pointer world-any.aaplimg.com.
+
+github.com
+github.com has address 140.82.113.3
+github.com mail is handled by 1 aspmx.l.google.com.
+github.com mail is handled by 5 alt1.aspmx.l.google.com.
+github.com mail is handled by 5 alt2.aspmx.l.google.com.
+github.com mail is handled by 10 alt3.aspmx.l.google.com.
+github.com mail is handled by 10 alt4.aspmx.l.google.com.
+3.113.82.140.in-addr.arpa domain name pointer lb-140-82-113-3-iad.github.com.
+
+google.com.mx
+google.com.mx has address 172.217.1.131
+google.com.mx has IPv6 address 2607:f8b0:4000:817::2003
+google.com.mx mail is handled by 10 aspmx.l.google.com.
+google.com.mx mail is handled by 20 alt1.aspmx.l.google.com.
+google.com.mx mail is handled by 30 alt2.aspmx.l.google.com.
+google.com.mx mail is handled by 40 alt3.aspmx.l.google.com.
+google.com.mx mail is handled by 50 alt4.aspmx.l.google.com.
+131.1.217.172.in-addr.arpa domain name pointer dfw28s23-in-f3.1e100.net.
+131.1.217.172.in-addr.arpa domain name pointer atl14s07-in-f131.1e100.net.
+3.0.0.2.0.0.0.0.0.0.0.0.0.0.0.0.7.1.8.0.0.0.0.4.0.b.8.f.7.0.6.2.ip6.arpa domain name pointer dfw28s23-in-x03.1e100.net.
+
+chinadaily.com.cn
+chinadaily.com.cn has address 111.13.49.147
+chinadaily.com.cn mail is handled by 10 mail.chinadaily.com.cn.
+Host 147.49.13.111.in-addr.arpa. not found: 3(NXDOMAIN)
+
+imdb.com
+imdb.com has address 52.94.228.167
+imdb.com has address 52.94.237.74
+imdb.com has address 52.94.225.248
+imdb.com mail is handled by 10 amazon-smtp.amazon.com.
+Host 167.228.94.52.in-addr.arpa. not found: 3(NXDOMAIN)
+Host 74.237.94.52.in-addr.arpa. not found: 3(NXDOMAIN)
+Host 248.225.94.52.in-addr.arpa. not found: 3(NXDOMAIN)
+
+google.co.kr
+google.co.kr has address 142.250.68.163
+google.co.kr has IPv6 address 2607:f8b0:4000:801::2003
+google.co.kr mail is handled by 10 aspmx.l.google.com.
+google.co.kr mail is handled by 20 alt1.aspmx.l.google.com.
+google.co.kr mail is handled by 30 alt2.aspmx.l.google.com.
+google.co.kr mail is handled by 40 alt3.aspmx.l.google.com.
+google.co.kr mail is handled by 50 alt4.aspmx.l.google.com.
+163.68.250.142.in-addr.arpa domain name pointer dfw25s41-in-f3.1e100.net.
+3.0.0.2.0.0.0.0.0.0.0.0.0.0.0.0.1.0.8.0.0.0.0.4.0.b.8.f.7.0.6.2.ip6.arpa domain name pointer dfw25s41-in-x03.1e100.net.
+
+fc2.com
+fc2.com has address 199.48.210.152
+fc2.com mail is handled by 10 mx01.fc2.com.
+Host 152.210.48.199.in-addr.arpa. not found: 3(NXDOMAIN)
+
+jd.com
+jd.com has address 118.193.98.63
+jd.com has address 120.52.148.118
+jd.com has address 111.13.149.108
+jd.com mail is handled by 10 mx.jd.com.
+jd.com mail is handled by 30 mx1.jd.com.
+Host 63.98.193.118.in-addr.arpa. not found: 3(NXDOMAIN)
+118.148.52.120.in-addr.arpa has no PTR record
+Host 108.149.13.111.in-addr.arpa. not found: 3(NXDOMAIN)
+
+blogger.com
+blogger.com has address 172.217.1.233
+blogger.com has IPv6 address 2607:f8b0:4000:80e::2009
+blogger.com mail is handled by 5 gmr-smtp-in.l.google.com.
+blogger.com mail is handled by 10 alt1.gmr-smtp-in.l.google.com.
+blogger.com mail is handled by 10 alt2.gmr-smtp-in.l.google.com.
+233.1.217.172.in-addr.arpa domain name pointer dfw25s25-in-f9.1e100.net.
+233.1.217.172.in-addr.arpa domain name pointer lax17s02-in-f9.1e100.net.
+9.0.0.2.0.0.0.0.0.0.0.0.0.0.0.0.e.0.8.0.0.0.0.4.0.b.8.f.7.0.6.2.ip6.arpa domain name pointer dfw25s25-in-x09.1e100.net.
+
+163.com
+163.com has address 123.58.180.7
+163.com has address 123.58.180.8
+163.com mail is handled by 10 163mx01.mxmail.netease.com.
+163.com mail is handled by 10 163mx02.mxmail.netease.com.
+163.com mail is handled by 10 163mx03.mxmail.netease.com.
+163.com mail is handled by 50 163mx00.mxmail.netease.com.
+Host 7.180.58.123.in-addr.arpa. not found: 3(NXDOMAIN)
+Host 8.180.58.123.in-addr.arpa. not found: 3(NXDOMAIN)
+
+google.ca
+google.ca has address 216.58.194.99
+google.ca has IPv6 address 2607:f8b0:4000:80c::2003
+google.ca mail is handled by 10 aspmx.l.google.com.
+google.ca mail is handled by 20 alt1.aspmx.l.google.com.
+google.ca mail is handled by 30 alt2.aspmx.l.google.com.
+google.ca mail is handled by 40 alt3.aspmx.l.google.com.
+google.ca mail is handled by 50 alt4.aspmx.l.google.com.
+99.194.58.216.in-addr.arpa domain name pointer dfw06s48-in-f3.1e100.net.
+99.194.58.216.in-addr.arpa domain name pointer dfw06s48-in-f99.1e100.net.
+3.0.0.2.0.0.0.0.0.0.0.0.0.0.0.0.c.0.8.0.0.0.0.4.0.b.8.f.7.0.6.2.ip6.arpa domain name pointer dfw06s48-in-x03.1e100.net.
+
+google.com.hk
+google.com.hk has address 172.217.9.3
+google.com.hk has IPv6 address 2607:f8b0:4000:812::2003
+google.com.hk mail is handled by 10 aspmx.l.google.com.
+google.com.hk mail is handled by 20 alt1.aspmx.l.google.com.
+google.com.hk mail is handled by 30 alt2.aspmx.l.google.com.
+google.com.hk mail is handled by 40 alt3.aspmx.l.google.com.
+google.com.hk mail is handled by 50 alt4.aspmx.l.google.com.
+3.9.217.172.in-addr.arpa domain name pointer dfw28s02-in-f3.1e100.net.
+3.0.0.2.0.0.0.0.0.0.0.0.0.0.0.0.2.1.8.0.0.0.0.4.0.b.8.f.7.0.6.2.ip6.arpa domain name pointer dfw28s02-in-x03.1e100.net.
+
+whatsapp.com
+whatsapp.com has address 157.240.19.53
+whatsapp.com has IPv6 address 2a03:2880:f234:c6:face:b00c::167
+whatsapp.com mail is handled by 10 mxa-00082601.gslb.pphosted.com.
+whatsapp.com mail is handled by 10 mxb-00082601.gslb.pphosted.com.
+53.19.240.157.in-addr.arpa domain name pointer whatsapp-cdn-shv-01-dfw5.fbcdn.net.
+7.6.1.0.0.0.0.0.c.0.0.b.e.c.a.f.6.c.0.0.4.3.2.f.0.8.8.2.3.0.a.2.ip6.arpa domain name pointer whatsapp-cdn6-shv-01-dfw5.fbcdn.net.
+
+amazon.in
+amazon.in has address 54.239.33.92
+amazon.in has address 52.95.116.115
+amazon.in has address 52.95.120.67
+amazon.in mail is handled by 10 amazon-smtp.amazon.com.
+Host 92.33.239.54.in-addr.arpa. not found: 3(NXDOMAIN)
+Host 115.116.95.52.in-addr.arpa. not found: 3(NXDOMAIN)
+Host 67.120.95.52.in-addr.arpa. not found: 3(NXDOMAIN)
+
+office.com
+office.com has address 13.107.6.156
+office.com has IPv6 address 2620:1ec:a92::156
+Host 156.6.107.13.in-addr.arpa. not found: 3(NXDOMAIN)
+Host 6.5.1.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.2.9.a.0.c.e.1.0.0.2.6.2.ip6.arpa not found: 3(NXDOMAIN)
+
+google.com.tr
+google.com.tr has address 172.217.9.163
+google.com.tr has IPv6 address 2607:f8b0:4000:814::2003
+google.com.tr mail is handled by 10 aspmx.l.google.com.
+google.com.tr mail is handled by 20 alt1.aspmx.l.google.com.
+google.com.tr mail is handled by 30 alt2.aspmx.l.google.com.
+google.com.tr mail is handled by 40 alt3.aspmx.l.google.com.
+google.com.tr mail is handled by 50 alt4.aspmx.l.google.com.
+163.9.217.172.in-addr.arpa domain name pointer dfw25s27-in-f3.1e100.net.
+3.0.0.2.0.0.0.0.0.0.0.0.0.0.0.0.4.1.8.0.0.0.0.4.0.b.8.f.7.0.6.2.ip6.arpa domain name pointer dfw25s27-in-x03.1e100.net.
+
+tianya.cn
+tianya.cn has address 124.225.65.154
+tianya.cn mail is handled by 5 mxbiz1.qq.com.
+tianya.cn mail is handled by 10 mxbiz2.qq.com.
+Host 154.65.225.124.in-addr.arpa. not found: 3(NXDOMAIN)
+
+google.co.id
+google.co.id has address 172.217.9.131
+google.co.id has IPv6 address 2607:f8b0:4000:813::2003
+google.co.id mail is handled by 10 aspmx.l.google.com.
+google.co.id mail is handled by 20 alt1.aspmx.l.google.com.
+google.co.id mail is handled by 30 alt2.aspmx.l.google.com.
+google.co.id mail is handled by 40 alt3.aspmx.l.google.com.
+google.co.id mail is handled by 50 alt4.aspmx.l.google.com.
+131.9.217.172.in-addr.arpa domain name pointer dfw25s26-in-f3.1e100.net.
+3.0.0.2.0.0.0.0.0.0.0.0.0.0.0.0.3.1.8.0.0.0.0.4.0.b.8.f.7.0.6.2.ip6.arpa domain name pointer dfw25s26-in-x03.1e100.net.
+
+youku.com
+youku.com has address 106.11.43.215
+youku.com has IPv6 address 2408:4001:f10::fd
+youku.com has IPv6 address 2408:4001:f00::3a
+youku.com has IPv6 address 2408:4001:f00::1af
+youku.com has IPv6 address 2408:4001:f10::8
+youku.com mail is handled by 20 mx1.youku.com.
+youku.com mail is handled by 20 mx2.youku.com.
+Host 215.43.11.106.in-addr.arpa. not found: 3(NXDOMAIN)
+Host d.f.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.1.f.0.1.0.0.4.8.0.4.2.ip6.arpa not found: 3(NXDOMAIN)
+Host a.3.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.f.0.1.0.0.4.8.0.4.2.ip6.arpa not found: 3(NXDOMAIN)
+Host f.a.1.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.f.0.1.0.0.4.8.0.4.2.ip6.arpa not found: 3(NXDOMAIN)
+Host 8.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.1.f.0.1.0.0.4.8.0.4.2.ip6.arpa not found: 3(NXDOMAIN)
+
+rakuten.co.jp
+rakuten.co.jp has address 133.237.16.234
+rakuten.co.jp mail is handled by 0 rakuten-co-jp.mail.protection.outlook.com.
+234.16.237.133.in-addr.arpa domain name pointer rakuten.co.jp.
+
+craigslist.org
+craigslist.org has address 208.82.237.129
+craigslist.org mail is handled by 10 mxicorpf.craigslist.org.
+129.237.82.208.in-addr.arpa domain name pointer www.craigslist.org.
+
+amazon.de
+amazon.de has address 176.32.108.185
+amazon.de has address 52.95.120.34
+amazon.de has address 54.239.39.102
+amazon.de mail is handled by 10 amazon-smtp.amazon.com.
+Host 185.108.32.176.in-addr.arpa. not found: 3(NXDOMAIN)
+Host 34.120.95.52.in-addr.arpa. not found: 3(NXDOMAIN)
+Host 102.39.239.54.in-addr.arpa. not found: 3(NXDOMAIN)
+
+nicovideo.jp
+nicovideo.jp has address 133.152.43.29
+Host 29.43.152.133.in-addr.arpa. not found: 3(NXDOMAIN)
+
+google.pl
+google.pl has address 172.217.12.67
+google.pl has IPv6 address 2607:f8b0:4000:816::2003
+google.pl mail is handled by 10 aspmx.l.google.com.
+google.pl mail is handled by 20 alt1.aspmx.l.google.com.
+google.pl mail is handled by 30 alt2.aspmx.l.google.com.
+google.pl mail is handled by 40 alt3.aspmx.l.google.com.
+google.pl mail is handled by 50 alt4.aspmx.l.google.com.
+67.12.217.172.in-addr.arpa domain name pointer dfw28s05-in-f3.1e100.net.
+3.0.0.2.0.0.0.0.0.0.0.0.0.0.0.0.6.1.8.0.0.0.0.4.0.b.8.f.7.0.6.2.ip6.arpa domain name pointer dfw28s05-in-x03.1e100.net.
+
+soso.com
+soso.com is an alias for e.proxy.sogou.com.
+e.proxy.sogou.com has address 118.191.216.57
+e.proxy.sogou.com has address 119.28.109.132
+e.proxy.sogou.com has address 118.191.216.42
+Host 57.216.191.118.in-addr.arpa not found: 2(SERVFAIL)
+Host 132.109.28.119.in-addr.arpa. not found: 3(NXDOMAIN)
+Host 42.216.191.118.in-addr.arpa not found: 2(SERVFAIL)
+
+bilibili.com
+bilibili.com has address 119.3.238.64
+bilibili.com has address 120.92.174.135
+bilibili.com has address 139.159.241.37
+bilibili.com has address 110.43.34.66
+bilibili.com has address 119.3.70.188
+bilibili.com mail is handled by 5 bilibili-com.mail.protection.partner.outlook.cn.
+bilibili.com mail is handled by 10 n89-xyz.mail.protection.partner.outlook.cn.
+64.238.3.119.in-addr.arpa domain name pointer ecs-119-3-238-64.compute.hwclouds-dns.com.
+Host 135.174.92.120.in-addr.arpa. not found: 3(NXDOMAIN)
+37.241.159.139.in-addr.arpa domain name pointer ecs-139-159-241-37.compute.hwclouds-dns.com.
+Host 66.34.43.110.in-addr.arpa. not found: 3(NXDOMAIN)
+188.70.3.119.in-addr.arpa domain name pointer ecs-119-3-70-188.compute.hwclouds-dns.com.
+
+dropbox.com
+dropbox.com has address 162.125.248.1
+dropbox.com has IPv6 address 2620:100:6040:1::a27d:f801
+dropbox.com mail is handled by 1 aspmx.l.google.com.
+dropbox.com mail is handled by 5 alt1.aspmx.l.google.com.
+dropbox.com mail is handled by 5 alt2.aspmx.l.google.com.
+dropbox.com mail is handled by 10 alt3.aspmx.l.google.com.
+dropbox.com mail is handled by 10 alt4.aspmx.l.google.com.
+Host 1.248.125.162.in-addr.arpa. not found: 3(NXDOMAIN)
+Host 1.0.8.f.d.7.2.a.0.0.0.0.0.0.0.0.1.0.0.0.0.4.0.6.0.0.1.0.0.2.6.2.ip6.arpa not found: 3(NXDOMAIN)
+
+xinhuanet.com
+xinhuanet.com has address 202.108.119.193
+xinhuanet.com has address 202.108.119.194
+xinhuanet.com mail is handled by 10 mx.xinhuanet.com.
+Host 193.119.108.202.in-addr.arpa. not found: 3(NXDOMAIN)
+Host 194.119.108.202.in-addr.arpa. not found: 3(NXDOMAIN)
+
+outbrain.com
+outbrain.com has address 192.82.210.254
+outbrain.com has address 192.82.211.254
+outbrain.com mail is handled by 10 aspmx.l.google.com.
+outbrain.com mail is handled by 20 alt1.aspmx.l.google.com.
+254.210.82.192.in-addr.arpa domain name pointer chi.outbrain.com.
+254.211.82.192.in-addr.arpa domain name pointer ny.outbrain.com.
+
+pixnet.net
+pixnet.net has address 103.23.108.107
+107.108.23.103.in-addr.arpa domain name pointer ip-103-23-108-107.static.pixnet.tw.
+
+alibaba.com
+alibaba.com has address 205.204.101.142
+alibaba.com has address 198.11.132.198
+alibaba.com mail is handled by 10 mx01.mail.alibaba.com.
+alibaba.com mail is handled by 20 mx02.mail.alibaba.com.
+Host 142.101.204.205.in-addr.arpa. not found: 3(NXDOMAIN)
+Host 198.132.11.198.in-addr.arpa. not found: 3(NXDOMAIN)
+
+alipay.com
+alipay.com has address 110.75.129.5
+alipay.com has address 110.75.139.5
+alipay.com mail is handled by 10 mx1.alibaba-inc.com.
+Host 5.129.75.110.in-addr.arpa. not found: 3(NXDOMAIN)
+Host 5.139.75.110.in-addr.arpa. not found: 3(NXDOMAIN)
+
+microsoftonline.com
+microsoftonline.com has address 52.178.167.109
+microsoftonline.com has address 40.84.199.233
+microsoftonline.com mail is handled by 0 mail.global.frontbridge.com.
+Host 109.167.178.52.in-addr.arpa. not found: 3(NXDOMAIN)
+Host 233.199.84.40.in-addr.arpa. not found: 3(NXDOMAIN)
+
+google.com.tw
+google.com.tw has address 172.217.9.163
+google.com.tw has IPv6 address 2607:f8b0:4000:814::2003
+google.com.tw mail is handled by 10 aspmx.l.google.com.
+google.com.tw mail is handled by 20 alt1.aspmx.l.google.com.
+google.com.tw mail is handled by 30 alt2.aspmx.l.google.com.
+google.com.tw mail is handled by 40 alt3.aspmx.l.google.com.
+google.com.tw mail is handled by 50 alt4.aspmx.l.google.com.
+163.9.217.172.in-addr.arpa domain name pointer dfw25s27-in-f3.1e100.net.
+3.0.0.2.0.0.0.0.0.0.0.0.0.0.0.0.4.1.8.0.0.0.0.4.0.b.8.f.7.0.6.2.ip6.arpa domain name pointer dfw25s27-in-x03.1e100.net.
+
+booking.com
+booking.com has address 5.57.16.220
+booking.com mail is handled by 10 mxa-0032a201.gslb.pphosted.com.
+booking.com mail is handled by 10 mxb-0032a201.gslb.pphosted.com.
+220.16.57.5.in-addr.arpa domain name pointer www.booking.com.
+
+googleusercontent.com
+
+google.com.au
+google.com.au has address 142.250.68.163
+google.com.au has IPv6 address 2607:f8b0:4000:801::2003
+google.com.au mail is handled by 10 aspmx.l.google.com.
+google.com.au mail is handled by 20 alt1.aspmx.l.google.com.
+google.com.au mail is handled by 30 alt2.aspmx.l.google.com.
+google.com.au mail is handled by 40 alt3.aspmx.l.google.com.
+google.com.au mail is handled by 50 alt4.aspmx.l.google.com.
+163.68.250.142.in-addr.arpa domain name pointer dfw25s41-in-f3.1e100.net.
+3.0.0.2.0.0.0.0.0.0.0.0.0.0.0.0.1.0.8.0.0.0.0.4.0.b.8.f.7.0.6.2.ip6.arpa domain name pointer dfw25s41-in-x03.1e100.net.
+
+popads.net
+popads.net has address 216.21.13.12
+popads.net has address 216.21.13.13
+popads.net mail is handled by 0 popads-net.mail.protection.outlook.com.
+Host 12.13.21.216.in-addr.arpa. not found: 3(NXDOMAIN)
+Host 13.13.21.216.in-addr.arpa. not found: 3(NXDOMAIN)
+
+cntv.cn
+cntv.cn has address 202.108.8.151
+cntv.cn is an alias for jump.cntv.cn.
+cntv.cn mail is handled by 5 mxwcom.263xmail.com.
+cntv.cn mail is handled by 10 mxcom.263xmail.com.
+151.8.108.202.in-addr.arpa domain name pointer zz-8-151-a8.bta.net.cn.
+
+zhihu.com
+zhihu.com has address 103.41.167.234
+zhihu.com mail is handled by 1 aspmx.l.google.com.
+zhihu.com mail is handled by 5 alt1.aspmx.l.google.com.
+zhihu.com mail is handled by 5 alt2.aspmx.l.google.com.
+zhihu.com mail is handled by 10 aspmx2.googlemail.com.
+zhihu.com mail is handled by 10 aspmx3.googlemail.com.
+zhihu.com mail is handled by 10 aspmx4.googlemail.com.
+zhihu.com mail is handled by 10 aspmx5.googlemail.com.
+Host 234.167.41.103.in-addr.arpa. not found: 3(NXDOMAIN)
+
+amazon.co.uk
+amazon.co.uk has address 54.239.34.171
+amazon.co.uk has address 178.236.7.220
+amazon.co.uk has address 54.239.33.58
+amazon.co.uk mail is handled by 10 amazon-smtp.amazon.com.
+Host 171.34.239.54.in-addr.arpa. not found: 3(NXDOMAIN)
+Host 220.7.236.178.in-addr.arpa. not found: 3(NXDOMAIN)
+Host 58.33.239.54.in-addr.arpa. not found: 3(NXDOMAIN)
+
+diply.com
+diply.com has address 151.101.193.131
+diply.com has address 151.101.1.131
+diply.com has address 151.101.65.131
+diply.com has address 151.101.129.131
+diply.com mail is handled by 1 aspmx.l.google.com.
+diply.com mail is handled by 5 alt1.aspmx.l.google.com.
+diply.com mail is handled by 5 alt2.aspmx.l.google.com.
+diply.com mail is handled by 10 alt3.aspmx.l.google.com.
+diply.com mail is handled by 10 alt4.aspmx.l.google.com.
+Host 131.193.101.151.in-addr.arpa. not found: 3(NXDOMAIN)
+Host 131.1.101.151.in-addr.arpa. not found: 3(NXDOMAIN)
+Host 131.65.101.151.in-addr.arpa. not found: 3(NXDOMAIN)
+Host 131.129.101.151.in-addr.arpa. not found: 3(NXDOMAIN)
+
+coccoc.com
+coccoc.com has address 123.30.175.29
+coccoc.com mail is handled by 1 aspmx.l.google.com.
+coccoc.com mail is handled by 5 alt1.aspmx.l.google.com.
+coccoc.com mail is handled by 5 alt2.aspmx.l.google.com.
+coccoc.com mail is handled by 10 alt2.aspmx.l.google.com.
+29.175.30.123.in-addr.arpa domain name pointer coccoc.com.
+
+cnn.com
+cnn.com has address 151.101.65.67
+cnn.com has address 151.101.129.67
+cnn.com has address 151.101.193.67
+cnn.com has address 151.101.1.67
+cnn.com has IPv6 address 2a04:4e42:200::323
+cnn.com has IPv6 address 2a04:4e42:400::323
+cnn.com has IPv6 address 2a04:4e42:600::323
+cnn.com has IPv6 address 2a04:4e42::323
+cnn.com mail is handled by 10 mxa-00241e02.gslb.pphosted.com.
+cnn.com mail is handled by 10 mxb-00241e02.gslb.pphosted.com.
+Host 67.65.101.151.in-addr.arpa. not found: 3(NXDOMAIN)
+Host 67.129.101.151.in-addr.arpa. not found: 3(NXDOMAIN)
+Host 67.193.101.151.in-addr.arpa. not found: 3(NXDOMAIN)
+Host 67.1.101.151.in-addr.arpa. not found: 3(NXDOMAIN)
+Host 3.2.3.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.2.0.2.4.e.4.4.0.a.2.ip6.arpa not found: 3(NXDOMAIN)
+Host 3.2.3.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.4.0.2.4.e.4.4.0.a.2.ip6.arpa not found: 3(NXDOMAIN)
+Host 3.2.3.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.6.0.2.4.e.4.4.0.a.2.ip6.arpa not found: 3(NXDOMAIN)
+Host 3.2.3.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.2.4.e.4.4.0.a.2.ip6.arpa not found: 3(NXDOMAIN)
+
+bbc.co.uk
+bbc.co.uk has address 151.101.64.81
+bbc.co.uk has address 151.101.128.81
+bbc.co.uk has address 151.101.192.81
+bbc.co.uk has address 151.101.0.81
+bbc.co.uk has IPv6 address 2a04:4e42:600::81
+bbc.co.uk has IPv6 address 2a04:4e42::81
+bbc.co.uk has IPv6 address 2a04:4e42:200::81
+bbc.co.uk has IPv6 address 2a04:4e42:400::81
+bbc.co.uk mail is handled by 10 cluster1.eu.messagelabs.com.
+bbc.co.uk mail is handled by 20 cluster1a.eu.messagelabs.com.
+Host 81.64.101.151.in-addr.arpa. not found: 3(NXDOMAIN)
+Host 81.128.101.151.in-addr.arpa. not found: 3(NXDOMAIN)
+Host 81.192.101.151.in-addr.arpa. not found: 3(NXDOMAIN)
+Host 81.0.101.151.in-addr.arpa. not found: 3(NXDOMAIN)
+Host 1.8.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.6.0.2.4.e.4.4.0.a.2.ip6.arpa not found: 3(NXDOMAIN)
+Host 1.8.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.2.4.e.4.4.0.a.2.ip6.arpa not found: 3(NXDOMAIN)
+Host 1.8.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.2.0.2.4.e.4.4.0.a.2.ip6.arpa not found: 3(NXDOMAIN)
+Host 1.8.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.4.0.2.4.e.4.4.0.a.2.ip6.arpa not found: 3(NXDOMAIN)
+
+twitch.tv
+twitch.tv has address 151.101.66.167
+twitch.tv has address 151.101.130.167
+twitch.tv has address 151.101.194.167
+twitch.tv has address 151.101.2.167
+twitch.tv mail is handled by 10 aspmx.l.google.com.
+twitch.tv mail is handled by 20 alt1.aspmx.l.google.com.
+twitch.tv mail is handled by 30 alt2.aspmx.l.google.com.
+twitch.tv mail is handled by 40 aspmx2.googlemail.com.
+twitch.tv mail is handled by 50 aspmx3.googlemail.com.
+Host 167.66.101.151.in-addr.arpa. not found: 3(NXDOMAIN)
+Host 167.130.101.151.in-addr.arpa. not found: 3(NXDOMAIN)
+Host 167.194.101.151.in-addr.arpa. not found: 3(NXDOMAIN)
+Host 167.2.101.151.in-addr.arpa. not found: 3(NXDOMAIN)
+
+wikia.com
+wikia.com has address 151.101.0.194
+wikia.com has address 151.101.64.194
+wikia.com has address 151.101.128.194
+wikia.com has address 151.101.192.194
+wikia.com has IPv6 address 2a04:4e42:600::194
+wikia.com has IPv6 address 2a04:4e42::194
+wikia.com has IPv6 address 2a04:4e42:200::194
+wikia.com has IPv6 address 2a04:4e42:400::194
+wikia.com mail is handled by 5 aspmx.l.google.com.
+wikia.com mail is handled by 10 alt1.aspmx.l.google.com.
+wikia.com mail is handled by 15 alt2.aspmx.l.google.com.
+Host 194.0.101.151.in-addr.arpa. not found: 3(NXDOMAIN)
+Host 194.64.101.151.in-addr.arpa. not found: 3(NXDOMAIN)
+Host 194.128.101.151.in-addr.arpa. not found: 3(NXDOMAIN)
+Host 194.192.101.151.in-addr.arpa. not found: 3(NXDOMAIN)
+Host 4.9.1.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.6.0.2.4.e.4.4.0.a.2.ip6.arpa not found: 3(NXDOMAIN)
+Host 4.9.1.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.2.4.e.4.4.0.a.2.ip6.arpa not found: 3(NXDOMAIN)
+Host 4.9.1.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.2.0.2.4.e.4.4.0.a.2.ip6.arpa not found: 3(NXDOMAIN)
+Host 4.9.1.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.4.0.2.4.e.4.4.0.a.2.ip6.arpa not found: 3(NXDOMAIN)
+
+google.co.th
+google.co.th has address 216.58.194.35
+google.co.th has IPv6 address 2607:f8b0:4000:802::2003
+google.co.th mail is handled by 10 aspmx.l.google.com.
+google.co.th mail is handled by 20 alt1.aspmx.l.google.com.
+google.co.th mail is handled by 30 alt2.aspmx.l.google.com.
+google.co.th mail is handled by 40 alt3.aspmx.l.google.com.
+google.co.th mail is handled by 50 alt4.aspmx.l.google.com.
+35.194.58.216.in-addr.arpa domain name pointer dfw25s12-in-f3.1e100.net.
+35.194.58.216.in-addr.arpa domain name pointer dfw25s12-in-f35.1e100.net.
+3.0.0.2.0.0.0.0.0.0.0.0.0.0.0.0.2.0.8.0.0.0.0.4.0.b.8.f.7.0.6.2.ip6.arpa domain name pointer dfw25s12-in-x03.1e100.net.
+
+google.com.ar
+google.com.ar has address 216.58.193.131
+google.com.ar has IPv6 address 2607:f8b0:4000:808::2003
+google.com.ar mail is handled by 10 aspmx.l.google.com.
+google.com.ar mail is handled by 20 alt1.aspmx.l.google.com.
+google.com.ar mail is handled by 30 alt2.aspmx.l.google.com.
+google.com.ar mail is handled by 40 alt3.aspmx.l.google.com.
+google.com.ar mail is handled by 50 alt4.aspmx.l.google.com.
+131.193.58.216.in-addr.arpa domain name pointer dfw25s34-in-f3.1e100.net.
+131.193.58.216.in-addr.arpa domain name pointer atl14s08-in-f131.1e100.net.
+3.0.0.2.0.0.0.0.0.0.0.0.0.0.0.0.8.0.8.0.0.0.0.4.0.b.8.f.7.0.6.2.ip6.arpa domain name pointer dfw25s34-in-x03.1e100.net.
+
+go.com
+go.com has address 23.236.60.174
+go.com mail is handled by 0 mx.go.com.cust.b.hostedemail.com.
+174.60.236.23.in-addr.arpa domain name pointer 174.60.236.23.bc.googleusercontent.com.
+
+google.nl
+google.nl has address 172.217.12.35
+google.nl has IPv6 address 2607:f8b0:4000:815::2003
+google.nl mail is handled by 10 aspmx.l.google.com.
+google.nl mail is handled by 20 alt1.aspmx.l.google.com.
+google.nl mail is handled by 30 alt2.aspmx.l.google.com.
+google.nl mail is handled by 40 alt3.aspmx.l.google.com.
+google.nl mail is handled by 50 alt4.aspmx.l.google.com.
+35.12.217.172.in-addr.arpa domain name pointer dfw28s04-in-f3.1e100.net.
+3.0.0.2.0.0.0.0.0.0.0.0.0.0.0.0.5.1.8.0.0.0.0.4.0.b.8.f.7.0.6.2.ip6.arpa domain name pointer dfw28s04-in-x03.1e100.net.
+
+ebay.co.uk
+ebay.co.uk has address 66.135.196.249
+ebay.co.uk has address 66.135.195.175
+ebay.co.uk mail is handled by 10 mx1.hc2186-24.iphmx.com.
+ebay.co.uk mail is handled by 10 mx2.hc2186-24.iphmx.com.
+249.196.135.66.in-addr.arpa domain name pointer ru.ebay.com.
+175.195.135.66.in-addr.arpa domain name pointer ru.ebay.com.
+
+kat.cr
+kat.cr has address 204.194.238.154
+kat.cr has IPv6 address ::ffff:146.112.195.92
+kat.cr mail is handled by 0 localhost.
+Host 154.238.194.204.in-addr.arpa. not found: 3(NXDOMAIN)
+Host c.5.3.c.0.7.2.9.f.f.f.f.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.ip6.arpa not found: 3(NXDOMAIN)
+
+globo.com
+globo.com has address 186.192.90.5
+globo.com mail is handled by 5 mx.globo.locaweb.com.br.
+globo.com mail is handled by 10 mx2.globo.locaweb.com.br.
+globo.com mail is handled by 20 mx3.globo.locaweb.com.br.
+5.90.192.186.in-addr.arpa domain name pointer redirect.globo.com.
+5.90.192.186.in-addr.arpa domain name pointer 186-192-90-5.prt.globo.com.
+
+google.com.ua
+google.com.ua has address 172.217.9.131
+google.com.ua has IPv6 address 2607:f8b0:4000:813::2003
+google.com.ua mail is handled by 10 aspmx.l.google.com.
+google.com.ua mail is handled by 20 alt1.aspmx.l.google.com.
+google.com.ua mail is handled by 30 alt2.aspmx.l.google.com.
+google.com.ua mail is handled by 40 alt3.aspmx.l.google.com.
+google.com.ua mail is handled by 50 alt4.aspmx.l.google.com.
+131.9.217.172.in-addr.arpa domain name pointer dfw25s26-in-f3.1e100.net.
+3.0.0.2.0.0.0.0.0.0.0.0.0.0.0.0.3.1.8.0.0.0.0.4.0.b.8.f.7.0.6.2.ip6.arpa domain name pointer dfw25s26-in-x03.1e100.net.
+
+uol.com.br
+uol.com.br has address 200.147.3.157
+uol.com.br has IPv6 address 2804:49c:3102:401:ffff:ffff:ffff:36
+uol.com.br has IPv6 address 2804:49c:3101:401:ffff:ffff:ffff:45
+uol.com.br mail is handled by 10 mx.uol.com.br.
+157.3.147.200.in-addr.arpa domain name pointer 200-147-3-157-157.static.uol.com.br.
+Host 6.3.0.0.f.f.f.f.f.f.f.f.f.f.f.f.1.0.4.0.2.0.1.3.c.9.4.0.4.0.8.2.ip6.arpa not found: 3(NXDOMAIN)
+Host 5.4.0.0.f.f.f.f.f.f.f.f.f.f.f.f.1.0.4.0.1.0.1.3.c.9.4.0.4.0.8.2.ip6.arpa not found: 3(NXDOMAIN)
+
+avito.ru
+avito.ru has address 185.89.12.132
+avito.ru mail is handled by 1 avito-ru.mail.protection.outlook.com.
+Host 132.12.89.185.in-addr.arpa. not found: 3(NXDOMAIN)
+
+google.com.co
+google.com.co has address 172.217.2.227
+google.com.co has IPv6 address 2607:f8b0:4000:811::2003
+google.com.co mail is handled by 10 aspmx.l.google.com.
+google.com.co mail is handled by 20 alt1.aspmx.l.google.com.
+google.com.co mail is handled by 30 alt2.aspmx.l.google.com.
+google.com.co mail is handled by 40 alt3.aspmx.l.google.com.
+google.com.co mail is handled by 50 alt4.aspmx.l.google.com.
+227.2.217.172.in-addr.arpa domain name pointer dfw28s01-in-f3.1e100.net.
+3.0.0.2.0.0.0.0.0.0.0.0.0.0.0.0.1.1.8.0.0.0.0.4.0.b.8.f.7.0.6.2.ip6.arpa domain name pointer dfw28s01-in-x03.1e100.net.
+
+google.com.vn
+google.com.vn has address 172.217.12.35
+google.com.vn has IPv6 address 2607:f8b0:4000:815::2003
+google.com.vn mail is handled by 10 aspmx.l.google.com.
+google.com.vn mail is handled by 20 alt1.aspmx.l.google.com.
+google.com.vn mail is handled by 30 alt2.aspmx.l.google.com.
+google.com.vn mail is handled by 40 alt3.aspmx.l.google.com.
+google.com.vn mail is handled by 50 alt4.aspmx.l.google.com.
+35.12.217.172.in-addr.arpa domain name pointer dfw28s04-in-f3.1e100.net.
+3.0.0.2.0.0.0.0.0.0.0.0.0.0.0.0.5.1.8.0.0.0.0.4.0.b.8.f.7.0.6.2.ip6.arpa domain name pointer dfw28s04-in-x03.1e100.net.
+
+google.com.ph
+google.com.ph has address 172.217.14.163
+google.com.ph has IPv6 address 2607:f8b0:4000:806::2003
+google.com.ph mail is handled by 10 aspmx.l.google.com.
+google.com.ph mail is handled by 20 alt1.aspmx.l.google.com.
+google.com.ph mail is handled by 30 alt2.aspmx.l.google.com.
+google.com.ph mail is handled by 40 alt3.aspmx.l.google.com.
+google.com.ph mail is handled by 50 alt4.aspmx.l.google.com.
+163.14.217.172.in-addr.arpa domain name pointer dfw28s22-in-f3.1e100.net.
+3.0.0.2.0.0.0.0.0.0.0.0.0.0.0.0.6.0.8.0.0.0.0.4.0.b.8.f.7.0.6.2.ip6.arpa domain name pointer dfw06s38-in-x03.1e100.net.
+3.0.0.2.0.0.0.0.0.0.0.0.0.0.0.0.6.0.8.0.0.0.0.4.0.b.8.f.7.0.6.2.ip6.arpa domain name pointer dfw28s22-in-x03.1e100.net.
+
+doubleclick.net
+doubleclick.net has address 172.217.1.142
+doubleclick.net has IPv6 address 2607:f8b0:4000:817::200e
+doubleclick.net mail is handled by 10 aspmx.l.google.com.
+doubleclick.net mail is handled by 20 alt1.aspmx.l.google.com.
+doubleclick.net mail is handled by 30 alt2.aspmx.l.google.com.
+doubleclick.net mail is handled by 40 alt3.aspmx.l.google.com.
+doubleclick.net mail is handled by 50 alt4.aspmx.l.google.com.
+142.1.217.172.in-addr.arpa domain name pointer dfw28s23-in-f14.1e100.net.
+142.1.217.172.in-addr.arpa domain name pointer atl14s07-in-f142.1e100.net.
+e.0.0.2.0.0.0.0.0.0.0.0.0.0.0.0.7.1.8.0.0.0.0.4.0.b.8.f.7.0.6.2.ip6.arpa domain name pointer dfw28s23-in-x0e.1e100.net.
+
+onet.pl
+onet.pl has address 213.180.141.140
+onet.pl mail is handled by 1 mx.poczta.onet.pl.
+140.141.180.213.in-addr.arpa domain name pointer sg1.any.onet.pl.
+
+googleadservices.com
+googleadservices.com has address 216.58.193.130
+googleadservices.com mail is handled by 10 aspmx.l.google.com.
+googleadservices.com mail is handled by 20 alt1.aspmx.l.google.com.
+googleadservices.com mail is handled by 30 alt2.aspmx.l.google.com.
+googleadservices.com mail is handled by 40 alt3.aspmx.l.google.com.
+googleadservices.com mail is handled by 50 alt4.aspmx.l.google.com.
+130.193.58.216.in-addr.arpa domain name pointer dfw25s34-in-f2.1e100.net.
+130.193.58.216.in-addr.arpa domain name pointer atl14s08-in-f130.1e100.net.
+
+accuweather.com
+accuweather.com has address 23.2.10.120
+accuweather.com mail is handled by 10 d177367a.ess.barracudanetworks.com.
+accuweather.com mail is handled by 20 d177367b.ess.barracudanetworks.com.
+120.10.2.23.in-addr.arpa domain name pointer a23-2-10-120.deploy.static.akamaitechnologies.com.
+
+googleweblight.com
+googleweblight.com has address 204.194.238.154
+googleweblight.com has IPv6 address ::ffff:204.194.238.149
+Host 154.238.194.204.in-addr.arpa. not found: 3(NXDOMAIN)
+Host 5.9.e.e.2.c.c.c.f.f.f.f.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.ip6.arpa not found: 3(NXDOMAIN)
+
+answers.yahoo.com
+answers.yahoo.com is an alias for any-media-router-abu1.prod.g03.yahoodns.net.
+any-media-router-abu1.prod.g03.yahoodns.net has address 76.13.32.153
+any-media-router-abu1.prod.g03.yahoodns.net has IPv6 address 2001:4998:124:1704::9000
+153.32.13.76.in-addr.arpa domain name pointer media-router-abu71.prod.media.vip.bf1.yahoo.com.
+0.0.0.9.0.0.0.0.0.0.0.0.0.0.0.0.4.0.7.1.4.2.1.0.8.9.9.4.1.0.0.2.ip6.arpa domain name pointer media-router-abu71.prod.media.vip.bf1.yahoo.com.
+
