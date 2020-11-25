@@ -1,0 +1,56 @@
+08:07:50.851848 IP 172.26.0.2.57454 > 172.26.0.4.freeciv: Flags [S], seq 467672176, win 29200, options [mss 1460,sackOK,TS val 3993011905 ecr 0,nop,wscale 7], length 0
+08:07:50.851929 IP 172.26.0.2.57454 > 172.26.0.4.freeciv: Flags [S], seq 467672176, win 29200, options [mss 1460,sackOK,TS val 3993011905 ecr 0,nop,wscale 7], length 0
+08:07:50.852074 IP 172.26.0.4.freeciv > 172.26.0.2.57454: Flags [S.], seq 443885631, ack 467672177, win 28960, options [mss 1460,sackOK,TS val 800456739 ecr 3993011905,nop,wscale 7], length 0
+08:07:50.852094 IP 172.26.0.4.freeciv > 172.26.0.2.57454: Flags [S.], seq 443885631, ack 467672177, win 28960, options [mss 1460,sackOK,TS val 800456739 ecr 3993011905,nop,wscale 7], length 0
+08:07:50.852150 IP 172.26.0.2.57454 > 172.26.0.4.freeciv: Flags [.], ack 1, win 229, options [nop,nop,TS val 3993011906 ecr 800456739], length 0
+08:07:50.852162 IP 172.26.0.2.57454 > 172.26.0.4.freeciv: Flags [.], ack 1, win 229, options [nop,nop,TS val 3993011906 ecr 800456739], length 0
+08:07:50.852463 IP 172.26.0.4.freeciv > 172.26.0.2.57454: Flags [P.], seq 1:11, ack 1, win 227, options [nop,nop,TS val 800456739 ecr 3993011906], length 10
+08:07:50.852485 IP 172.26.0.4.freeciv > 172.26.0.2.57454: Flags [P.], seq 1:11, ack 1, win 227, options [nop,nop,TS val 800456739 ecr 3993011906], length 10
+08:07:50.852500 IP 172.26.0.2.57454 > 172.26.0.4.freeciv: Flags [P.], seq 1:11, ack 1, win 229, options [nop,nop,TS val 3993011906 ecr 800456739], length 10
+08:07:50.852571 IP 172.26.0.2.57454 > 172.26.0.4.freeciv: Flags [P.], seq 1:11, ack 1, win 229, options [nop,nop,TS val 3993011906 ecr 800456739], length 10
+08:07:50.852609 IP 172.26.0.4.freeciv > 172.26.0.2.57454: Flags [.], ack 11, win 227, options [nop,nop,TS val 800456739 ecr 3993011906], length 0
+08:07:50.852618 IP 172.26.0.4.freeciv > 172.26.0.2.57454: Flags [.], ack 11, win 227, options [nop,nop,TS val 800456739 ecr 3993011906], length 0
+08:07:50.852630 IP 172.26.0.2.57454 > 172.26.0.4.freeciv: Flags [.], ack 11, win 229, options [nop,nop,TS val 3993011906 ecr 800456739], length 0
+08:07:50.852634 IP 172.26.0.4.freeciv > 172.26.0.2.57454: Flags [P.], seq 11:12, ack 11, win 227, options [nop,nop,TS val 800456739 ecr 3993011906], length 1
+08:07:50.852645 IP 172.26.0.4.freeciv > 172.26.0.2.57454: Flags [P.], seq 11:12, ack 11, win 227, options [nop,nop,TS val 800456739 ecr 3993011906], length 1
+08:07:50.852693 IP 172.26.0.2.57454 > 172.26.0.4.freeciv: Flags [.], ack 11, win 229, options [nop,nop,TS val 3993011906 ecr 800456739], length 0
+08:07:50.852718 IP 172.26.0.2.57454 > 172.26.0.4.freeciv: Flags [.], ack 12, win 229, options [nop,nop,TS val 3993011906 ecr 800456739], length 0
+08:07:50.852727 IP 172.26.0.2.57454 > 172.26.0.4.freeciv: Flags [.], ack 12, win 229, options [nop,nop,TS val 3993011906 ecr 800456739], length 0
+08:07:50.852854 IP 172.26.0.2.57454 > 172.26.0.4.freeciv: Flags [P.], seq 11:65, ack 12, win 229, options [nop,nop,TS val 3993011906 ecr 800456739], length 54
+08:07:50.852866 IP 172.26.0.2.57454 > 172.26.0.4.freeciv: Flags [P.], seq 11:65, ack 12, win 229, options [nop,nop,TS val 3993011906 ecr 800456739], length 54
+08:07:50.852979 IP 172.26.0.4.freeciv > 172.26.0.2.57454: Flags [P.], seq 12:65, ack 65, win 227, options [nop,nop,TS val 800456739 ecr 3993011906], length 53
+08:07:50.852990 IP 172.26.0.4.freeciv > 172.26.0.2.57454: Flags [P.], seq 12:65, ack 65, win 227, options [nop,nop,TS val 800456739 ecr 3993011906], length 53
+08:07:50.853013 IP 172.26.0.4.freeciv > 172.26.0.2.57454: Flags [P.], seq 65:92, ack 65, win 227, options [nop,nop,TS val 800456740 ecr 3993011906], length 27
+08:07:50.853018 IP 172.26.0.4.freeciv > 172.26.0.2.57454: Flags [P.], seq 65:92, ack 65, win 227, options [nop,nop,TS val 800456740 ecr 3993011906], length 27
+08:07:50.853035 IP 172.26.0.2.57454 > 172.26.0.4.freeciv: Flags [.], ack 92, win 229, options [nop,nop,TS val 3993011907 ecr 800456739], length 0
+08:07:50.853046 IP 172.26.0.2.57454 > 172.26.0.4.freeciv: Flags [.], ack 92, win 229, options [nop,nop,TS val 3993011907 ecr 800456739], length 0
+08:07:50.853186 IP 172.26.0.2.57454 > 172.26.0.4.freeciv: Flags [P.], seq 65:100, ack 92, win 229, options [nop,nop,TS val 3993011907 ecr 800456739], length 35
+08:07:50.853196 IP 172.26.0.2.57454 > 172.26.0.4.freeciv: Flags [P.], seq 65:100, ack 92, win 229, options [nop,nop,TS val 3993011907 ecr 800456739], length 35
+08:07:50.893755 IP 172.26.0.4.freeciv > 172.26.0.2.57454: Flags [.], ack 100, win 227, options [nop,nop,TS val 800456780 ecr 3993011907], length 0
+08:07:50.893811 IP 172.26.0.4.freeciv > 172.26.0.2.57454: Flags [.], ack 100, win 227, options [nop,nop,TS val 800456780 ecr 3993011907], length 0
+08:07:52.819261 IP 172.26.0.4.freeciv > 172.26.0.2.57454: Flags [P.], seq 92:105, ack 100, win 227, options [nop,nop,TS val 800458706 ecr 3993011907], length 13
+08:07:52.819285 IP 172.26.0.4.freeciv > 172.26.0.2.57454: Flags [P.], seq 92:105, ack 100, win 227, options [nop,nop,TS val 800458706 ecr 3993011907], length 13
+08:07:52.859738 IP 172.26.0.2.57454 > 172.26.0.4.freeciv: Flags [.], ack 105, win 229, options [nop,nop,TS val 3993013913 ecr 800458706], length 0
+08:07:52.859765 IP 172.26.0.2.57454 > 172.26.0.4.freeciv: Flags [.], ack 105, win 229, options [nop,nop,TS val 3993013913 ecr 800458706], length 0
+08:07:53.257431 IP 172.26.0.4.freeciv > 172.26.0.2.57454: Flags [P.], seq 105:119, ack 100, win 227, options [nop,nop,TS val 800459144 ecr 3993013913], length 14
+08:07:53.257456 IP 172.26.0.4.freeciv > 172.26.0.2.57454: Flags [P.], seq 105:119, ack 100, win 227, options [nop,nop,TS val 800459144 ecr 3993013913], length 14
+08:07:53.257470 IP 172.26.0.2.57454 > 172.26.0.4.freeciv: Flags [.], ack 119, win 229, options [nop,nop,TS val 3993014311 ecr 800459144], length 0
+08:07:53.257519 IP 172.26.0.2.57454 > 172.26.0.4.freeciv: Flags [.], ack 119, win 229, options [nop,nop,TS val 3993014311 ecr 800459144], length 0
+08:07:53.581966 IP 172.26.0.4.freeciv > 172.26.0.2.57454: Flags [P.], seq 119:133, ack 100, win 227, options [nop,nop,TS val 800459468 ecr 3993014311], length 14
+08:07:53.581989 IP 172.26.0.4.freeciv > 172.26.0.2.57454: Flags [P.], seq 119:133, ack 100, win 227, options [nop,nop,TS val 800459468 ecr 3993014311], length 14
+08:07:53.582003 IP 172.26.0.2.57454 > 172.26.0.4.freeciv: Flags [.], ack 133, win 229, options [nop,nop,TS val 3993014636 ecr 800459468], length 0
+08:07:53.582052 IP 172.26.0.2.57454 > 172.26.0.4.freeciv: Flags [.], ack 133, win 229, options [nop,nop,TS val 3993014636 ecr 800459468], length 0
+08:07:54.821161 IP 172.26.0.4.freeciv > 172.26.0.2.57454: Flags [P.], seq 133:147, ack 100, win 227, options [nop,nop,TS val 800460708 ecr 3993014636], length 14
+08:07:54.821187 IP 172.26.0.4.freeciv > 172.26.0.2.57454: Flags [P.], seq 133:147, ack 100, win 227, options [nop,nop,TS val 800460708 ecr 3993014636], length 14
+08:07:54.821203 IP 172.26.0.2.57454 > 172.26.0.4.freeciv: Flags [.], ack 147, win 229, options [nop,nop,TS val 3993015875 ecr 800460708], length 0
+08:07:54.821252 IP 172.26.0.2.57454 > 172.26.0.4.freeciv: Flags [.], ack 147, win 229, options [nop,nop,TS val 3993015875 ecr 800460708], length 0
+08:07:54.941600 IP 172.26.0.4.freeciv > 172.26.0.2.57454: Flags [P.], seq 147:160, ack 100, win 227, options [nop,nop,TS val 800460828 ecr 3993015875], length 13
+08:07:54.941651 IP 172.26.0.4.freeciv > 172.26.0.2.57454: Flags [P.], seq 147:160, ack 100, win 227, options [nop,nop,TS val 800460828 ecr 3993015875], length 13
+08:07:54.941674 IP 172.26.0.2.57454 > 172.26.0.4.freeciv: Flags [.], ack 160, win 229, options [nop,nop,TS val 3993015995 ecr 800460828], length 0
+08:07:54.941786 IP 172.26.0.2.57454 > 172.26.0.4.freeciv: Flags [.], ack 160, win 229, options [nop,nop,TS val 3993015995 ecr 800460828], length 0
+08:07:54.948126 IP 172.26.0.2.57454 > 172.26.0.4.freeciv: Flags [F.], seq 100, ack 160, win 229, options [nop,nop,TS val 3993016002 ecr 800460828], length 0
+08:07:54.948194 IP 172.26.0.2.57454 > 172.26.0.4.freeciv: Flags [F.], seq 100, ack 160, win 229, options [nop,nop,TS val 3993016002 ecr 800460828], length 0
+08:07:54.948317 IP 172.26.0.4.freeciv > 172.26.0.2.57454: Flags [F.], seq 160, ack 101, win 227, options [nop,nop,TS val 800460835 ecr 3993016002], length 0
+08:07:54.948338 IP 172.26.0.4.freeciv > 172.26.0.2.57454: Flags [F.], seq 160, ack 101, win 227, options [nop,nop,TS val 800460835 ecr 3993016002], length 0
+08:07:54.948356 IP 172.26.0.2.57454 > 172.26.0.4.freeciv: Flags [.], ack 161, win 229, options [nop,nop,TS val 3993016002 ecr 800460835], length 0
+08:07:54.948410 IP 172.26.0.2.57454 > 172.26.0.4.freeciv: Flags [.], ack 161, win 229, options [nop,nop,TS val 3993016002 ecr 800460835], length 0
